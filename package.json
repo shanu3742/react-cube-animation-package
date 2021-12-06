@@ -1,7 +1,7 @@
 {
-  "name": "@kode-kombat/fancy-button-package",
+  "name": "@shanu-singh/react-cube-animation",
   "version": "1.0.0",
-  "description": "This is my first custom button package",
+  "description": "This is customizable cube with animatiom",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "source": "src/index.jsx",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kode-kombat/fancy-button-package.git"
+    "url": "git+https://github.com/shanu3742/react-cube-animation-package.git"
   },
-  "author": "Kode Kombat",
+  "author": "shanu singh",
   "license": "ISC",
   "peerDependencies": {
     "react": "^17.0.2"
